@@ -1,0 +1,7 @@
+{
+  "newVersion": "1.0.2",
+  "apkUrl": "https://gitlab.seldatdirect.com/nab/mobile/Android/raw/master/app-release/20180724_NAB_QC_Modify_Putback.apk",
+  "versionNotes": [
+    "- Bug fixes", "- Test."
+  ]
+}
