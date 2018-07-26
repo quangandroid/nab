@@ -1,6 +1,6 @@
 {
-  "newVersion": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/quangandroid/nab/master/20180724_NAB_QC_Modify_Putback.apk",
+  "newVersion": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/quangandroid/nab/dev/nab_build.apk",
   "versionNotes": [
     "- Bug fixes", "- Test."
   ]
